@@ -2,7 +2,7 @@
 
 <img src="./src/screen-shot.jpg" title="chat=bot" width="100%" height="350px">
 
-Train creating simple chat bot with **react-simple-chatbot**:
+Create simple chat bot with **react-simple-chatbot**:
 
 - add custom avatars;
 - add custom styles to root chatbot component;
